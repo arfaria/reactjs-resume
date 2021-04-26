@@ -1,3 +1,11 @@
+# Passos para abrir o SPA 
+
+-Depois de fazer o git clone deste repositório, instale NodeJS: https://nodejs.org/en/;
+-Em seguida, abra o seu terminal de preferência e vá para a pasta do projeto, aonde você o deixou (use comando cd se for PowerShell ou um terminal do Linux, e comando dir se for o Prompt de Comando do Windows);
+-Estando dentro da pasta do projeto ./reactjs-resume, digite o seguinte comando: npm install;
+-Se aparecer alguma janela pedindo permissão, condeda-a;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
